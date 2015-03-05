@@ -1,18 +1,13 @@
-This collection of files and folder contains the complete program to XXX
+This collection of files and folder contains the complete program to print "Hello World!" in the terminal
 
 
 
 	Initial list of files and folders, and descriptions:
-Template.c:  	 The most up to date source code in C programming language
-Template.exe:    The Windows executable, just double click and it should run in a command window
+HelloWorld.c:  	 Source code in C programming language
+HelloWorld.exe:  The Windows executable, just double click and it should run in a command window
+README:		 This README file
+README.md	 README file created by Github, includes my autobiography
 	
-	Files that Template creates:
-???		 Creates a file with filename chosen by user
-	
-	Typical way to compile and run Template from Linux-like environment - type the following (minus "Step X)) at command line:
-Step 1)  gcc -o Template Template.c
-Step 2)  Template
-
-	Typical run time for program
-	(run on a PC Intel Core Duo CPU, 2 GHz, 3 GB of RAM)
-XXX sec.
+	Typical way to compile and run HelloWorld from Linux-like environment - type the following (minus "Step X)) at command line:
+Step 1)  gcc -o HelloWorld HelloWorld.c
+Step 2)  HelloWorld
