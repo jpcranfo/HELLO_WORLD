@@ -5,7 +5,7 @@ This collection of files and folder contains the complete program to print "Hell
 	List of files and folders, and descriptions:
 HelloWorld.c:  	 Source code in C programming language
 HelloWorld.exe:  The Windows executable, just double click and it should run in a command window
-README:		 This README file
+README:		 This detailed README file
 README.md	 README file created by Github, includes my autobiography
 	
 	Typical way to compile and run HelloWorld from Linux-like environment - type the following (minus "Step X)) at command line:
